@@ -2,11 +2,11 @@
 
 ## Warum wir git verwenden
 
-* teamfähig
-* backup
-* zurück zu einer vorherigen Version
+1. teamfähig
+1. backup
+1. zurück zu einer vorherigen Version
 
 ### Uni GIT
 
-* wir lernen gerade GIT 
-* es ist cool
+1. wir lernen gerade GIT 
+1. es ist cool
