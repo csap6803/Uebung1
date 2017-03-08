@@ -10,3 +10,7 @@
 
 1. wir lernen gerade GIT 
 1. es ist cool
+
+## Bilder Links
+
+! [horse] (horse.jpg) 
